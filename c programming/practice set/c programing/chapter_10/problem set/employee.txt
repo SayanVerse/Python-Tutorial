@@ -1,2 +1,0 @@
-i) Name: sayan, Salary: 45000
-ii) Name: soumen, Salary: 10000
